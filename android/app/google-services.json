@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190747831923",
+    "firebase_url": "https://chat-adaad.firebaseio.com",
+    "project_id": "chat-adaad",
+    "storage_bucket": "chat-adaad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190747831923:android:6f8b9b420b040f8bd98406",
+        "android_client_info": {
+          "package_name": "com.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190747831923-917u2isqig6ov1ic81lgmovtasj032nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVsgLbjFx0JRRSAKrzmnKfDb9FR4Kxhw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190747831923-917u2isqig6ov1ic81lgmovtasj032nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
